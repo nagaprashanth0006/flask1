@@ -33,4 +33,4 @@ def get_data():
     return f'Data:\n\n{data}\n'
 
 if __name__ == '__main__':
-    app.run(port="9091", debug=True)
+    app.run(port="8080", debug=True)
